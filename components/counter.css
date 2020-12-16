@@ -1,0 +1,14 @@
+.counterWrap {
+  width: 100%;
+  text-align: center;
+}
+
+.counterWrap .currentCount {
+}
+
+.counterWrap button {
+  background-color: transparent;
+  padding: 10px;
+  outline: none;
+  margin-right: 10px;
+}
